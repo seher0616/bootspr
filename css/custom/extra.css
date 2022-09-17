@@ -5,6 +5,23 @@ header.backImage{
     background-position: center center;
     background-size: cover;
 }
+header.backImage .backImage-sub{
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 
-@media(max-widh:991.98);
+@media(max-widh:991.98){
+    header.backImager{
+        padding-top: 11rem;
+        padding-bottom: 13rem;
+    }
+}
+@media(min-width:992px){
+    header.backImage{
+        padding-top: 15rem;
+        padding-bottom: 15rem;
+    }
+}
