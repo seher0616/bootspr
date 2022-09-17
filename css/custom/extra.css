@@ -1,0 +1,10 @@
+header.backImage{
+    background-image: url("../../img/table-pc.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+@media(max-widh:991.98);
