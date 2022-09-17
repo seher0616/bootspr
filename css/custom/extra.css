@@ -10,6 +10,15 @@ header.backImage .backImage-sub{
     line-height: 1.5rem;
     font-style: italic;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+header.backImage .backImage-heading {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 3rem;
+  margin-bottom: 2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 
@@ -18,6 +27,15 @@ header.backImage .backImage-sub{
         padding-top: 11rem;
         padding-bottom: 13rem;
     }
+
+
+header.backImage .backImage-heading{
+    font-size: 2rem;
+    line-height: 2rem;
+    
+}
+
+
 }
 @media(min-width:992px){
     header.backImage{
